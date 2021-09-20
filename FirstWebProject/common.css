@@ -1,0 +1,10 @@
+.red {color: red; font-weight: bold;}
+.fit-content {display: inline-block;}
+.left-div, .right-div {height: 100%; border: 1px solid;}
+.left-div {flex: 0.2}
+.right-div {flex: 0.8}
+html, body, main {height: 100%; width: 100%;}
+.container {display: flex; flex-direction: row; height: 100%; width: 100%;}
+.btn:hover {background-color: grey; cursor: pointer;}
+.btn {display: flex;}
+.btn i {flex: 0.3}
